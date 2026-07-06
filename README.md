@@ -1,7 +1,5 @@
 # Asal Sarviha Research CV Website
 
-Flat static GitHub Pages export. All files are in the root of the zip, with no folders.
-
 ## Files
 
 - `index.html` - homepage
@@ -12,5 +10,3 @@ Flat static GitHub Pages export. All files are in the root of the zip, with no f
 - `contact.html` - contact page
 - `resume-blog.css` - complete styling
 - `.nojekyll` - GitHub Pages helper
-
-Upload all files directly to the root of your GitHub repository.
